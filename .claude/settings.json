@@ -53,7 +53,7 @@
     }
   },
 
-  "enableAllProjectMcpServers": true,
+  "enableAllProjectMcpServers": false,
 
   "defaultMode": "default",
 

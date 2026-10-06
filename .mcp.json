@@ -23,10 +23,6 @@
       "command": "npx",
       "args": ["-y", "context-mode@latest"]
     },
-    "memsearch": {
-      "command": "npx",
-      "args": ["-y", "memsearch-mcp@latest"]
-    },
     "surfpool": {
       "command": "surfpool",
       "args": ["mcp"]
